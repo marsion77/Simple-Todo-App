@@ -1,0 +1,41 @@
+body{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+
+
+.Container{
+    height: 700px;
+    width: 100%;
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.content-container{
+    border: 1px solid black;
+    height: fit-content;
+    align-content: center;
+    padding: 30px;
+    margin-top: 150px;
+    background-color: white;
+    border-radius: 20px;
+    border: none;
+    box-shadow: 0 15px 25px rgba(0, 0, 0, 0.6);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+text-align: center;
+}
+
+
+ul{
+list-style-type:none;
+line-height: 3;
+}
