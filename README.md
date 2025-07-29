@@ -14,6 +14,6 @@ A simple and functional to-do list app built using HTML, CSS, and JavaScript. It
 - JavaScript
 
 ## 🔗 Live Demo
-[View Live Project](https://your-live-link.netlify.app)
+
 
 
