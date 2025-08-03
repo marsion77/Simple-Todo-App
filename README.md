@@ -25,7 +25,7 @@ A simple, responsive To-Do List web app with features to **add**, **edit**, and 
 
 <p>
 <img width="50%" height="100%" alt="image" src="https://github.com/user-attachments/assets/cf6b9e0d-8f92-442f-8176-41671e50dd81" />
-<img width="50%" height="100%" alt="image" src="https://github.com/user-attachments/assets/81804eb1-6fa5-46c6-ba61-d4fa10732916" />
+<img width="40%" height="100%" alt="image" src="https://github.com/user-attachments/assets/81804eb1-6fa5-46c6-ba61-d4fa10732916" />
 </p>
 
 
