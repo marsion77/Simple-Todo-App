@@ -1,29 +1,45 @@
-📝 To-Do List App
-A simple and responsive To-Do List web application that allows users to add, edit, and delete tasks. Tasks are saved in the browser's Local Storage, so they remain even after refreshing or closing the browser.
+# 📝 To-Do List App
 
-🔗 Live Demo
-Click here to try the app <!-- Replace with your live link -->
+A simple, responsive To-Do List web app with features to **add**, **edit**, and **delete** tasks. All tasks are saved in **Local Storage**, so they remain even after refreshing or closing the browser.
 
-✨ Features
-✅ Add tasks
+---
 
-📝 Edit tasks
+## 🔗 Live Demo
 
-❌ Delete tasks
+👉 [Try the App](https://spontaneous-parfait-fb10f9.netlify.app/)  
 
-💾 Save tasks in Local Storage
 
-📱 Fully responsive design
+---
 
-📸 Screenshots
-<!-- Optional: replace with actual image -->
+## ✨ Features
 
-🛠️ Built With
-HTML
+- ✅ Add new tasks  
+- 📝 Edit existing tasks  
+- ❌ Delete individual tasks  
+- 💾 Save tasks using browser's Local Storage  
+- 📱 Fully responsive design for all screen sizes
 
-CSS
+---
 
-JavaScript (Vanilla)
+## 📸 Screenshot
 
-Local Storage API
+<p>
+<img width="40%" height="827" alt="image" src="https://github.com/user-attachments/assets/cf6b9e0d-8f92-442f-8176-41671e50dd81" />
+<img width="40%" height="759" alt="image" src="https://github.com/user-attachments/assets/81804eb1-6fa5-46c6-ba61-d4fa10732916" />
+</p>
+
+
+
+---
+
+## 🛠️ Built With
+
+- **HTML**
+- **CSS**
+- **JavaScript (Vanilla)**
+- **Local Storage API**
+
+
+
+## 📂 Project Structure
 
